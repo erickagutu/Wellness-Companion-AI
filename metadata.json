@@ -1,0 +1,5 @@
+{
+  "name": "Wellness Companion AI",
+  "description": "A progressive web app for physical and mental health monitoring, providing AI-driven health tips and product recommendations based on your daily check-ins.",
+  "requestFramePermissions": []
+}
